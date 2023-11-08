@@ -6,6 +6,7 @@ df = pd.read_csv('data/raw/shopping_behavior_updated.csv')
 # calculate summary statistics on the Purchase Amount column
 # TODO: Is there a way to encapsulate all this functionality
 # TODO: in one function call?
+
 s1 = df['Purchase Amount (USD)'].mean()
 s2 = df['Purchase Amount (USD)'].median()
 s3 = df['Purchase Amount (USD)'].max()
