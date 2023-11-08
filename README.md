@@ -1,4 +1,5 @@
 # refactor-me
+#Dee's COMMENTS: I redid the code into the Shopping-stat-info-1 copy.ipynb file to use Pandas mostly.
 
 To begin this project: [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository. 
 
